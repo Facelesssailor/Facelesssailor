@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-<!-
+Im Pete, im part of chs and i like to code 
+<!--
 **Facelesssailor/Facelesssailor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
